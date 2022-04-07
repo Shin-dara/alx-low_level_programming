@@ -1,1 +1,1 @@
-My readme.md file for my 0x00-hello_world directory
+This repository introduces C programming language
