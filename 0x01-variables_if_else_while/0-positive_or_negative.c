@@ -1,4 +1,4 @@
-nclude <stdlib.h>
+lude <stdlib.h>
 
 #include <time.h>
 
