@@ -23,7 +23,7 @@ while (round < 10)
 {
 
 letter = 'a';
-	while (letter <= 'z')
+while (letter <= 'z')
 
 {
 
