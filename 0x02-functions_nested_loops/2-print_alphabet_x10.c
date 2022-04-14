@@ -26,7 +26,7 @@ letter = 'a';
 
 while (letter <= 'z')
 
-{		
+{
 
 _putchar(letter);
 
